@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_0": 177, "ISO": "PHL", "NAME_0": "Philippines", "ID_1": 43, "NAME_1": "Leyte", "ID_2": 894, "NAME_2": "Tacloban City", "ID_3": 22833, "NAME_3": "Barangay  6", "NL_NAME_3": null, "VARNAME_3": null, "TYPE_3": "Barangay", "ENGTYPE_3": "Village", "PROVINCE": "Leyte", "REGION": "Eastern Visayas (Region VIII)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 124.995903015136719, 11.247130393981934 ], [ 124.99700927734375, 11.24578952789301 ], [ 124.996238708496094, 11.245360374450627 ], [ 124.994873046875114, 11.246689796447868 ], [ 124.995903015136719, 11.247130393981934 ] ] ] ] } }
+]
+}
